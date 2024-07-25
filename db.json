@@ -1,9 +1,82 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "body": "My name is Ankita",
+      "userId": 1,
+      "title": "foo",
+      "id": "9e44"
+    },
+    {
+      "id": "b67c",
+      "body": "boundaries = freedom",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "9d1f",
+      "body": "The universe is continuously expanding.",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "ac00",
+      "body": "The entropy of the universe keeps on increasing.",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "33a0",
+      "body": "Test",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "8634",
+      "body": "Testing!",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "fa42",
+      "body": "The total energy of the universe is constant.",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "703b",
+      "body": "Doiing network call",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "f0dd",
+      "body": "Rainbows and unicorns",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "3591",
+      "body": "",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "9937",
+      "body": "hello",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "fb83",
+      "body": "This is a new post.",
+      "title": "foo",
+      "userId": 1
+    },
+    {
+      "id": "add4",
+      "body": "Wow",
+      "title": "foo",
+      "userId": 1
+    }
+  ]
 }
